@@ -1,0 +1,14 @@
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Release\school.mdf
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Release\school_log.ldf
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Release\SMS.exe
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Release\SMS.pdb
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\obj\x86\Release\SMS.exe
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\obj\x86\Release\SMS.pdb
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\obj\x86\Release\SMS.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\obj\x86\Release\SMS.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\obj\x86\Release\SMS.exe
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\obj\x86\Release\SMS.pdb
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\bin\Release\school.mdf
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\bin\Release\school_log.ldf
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\bin\Release\SMS.exe
+C:\Users\lenovo\Desktop\Sem 6\.Net Framework\Extra\SMS\SMS\bin\Release\SMS.pdb

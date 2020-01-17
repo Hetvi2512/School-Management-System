@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2010\Projects\SMS\SMS\bin\Debug\school.mdf
+c:\users\student\documents\visual studio 2010\Projects\SMS\SMS\bin\Debug\school_log.ldf
+c:\users\student\documents\visual studio 2010\Projects\SMS\SMS\bin\Debug\SMS.exe
+c:\users\student\documents\visual studio 2010\Projects\SMS\SMS\bin\Debug\SMS.pdb
+c:\users\student\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.exe
+c:\users\student\documents\visual studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.pdb
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.exe
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\obj\x86\Debug\SMS.pdb
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Debug\school.mdf
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Debug\school_log.ldf
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Hetvi\Documents\Visual Studio 2010\Projects\SMS\SMS\bin\Debug\SMS.pdb
